@@ -1,0 +1,1 @@
+int au_init();
